@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "dev.cartridge.frequency",
+      "version": "1.0.0",
+      "sha256": "1f75712128857605a87fd37c62980005b797b1303347aee56afbd041b2818aac",
+      "size": 140208,
+      "permissions": [
+        "network",
+        "audio",
+        "storage"
+      ],
+      "repo": "Strizzo/frequency-cartridge",
+      "source_commit": "2102d3184ae57ace50406afe7b9b33df6e9610cc"
+    },
+    {
+      "id": "dev.cartridge.mission-control",
+      "version": "1.0.0",
+      "sha256": "ed6c5244c06ed5d4dfcb1b4524b3cd15a558f8bcf7b99b670b95c890f054299f",
+      "size": 23942,
+      "permissions": [
+        "network",
+        "storage"
+      ],
+      "repo": "Strizzo/mission-control-cartridge",
+      "source_commit": "3a2a79591343835b8f510b5a198e477ea769ae8f"
+    },
+    {
+      "id": "dev.cartridge.outside",
+      "version": "1.0.0",
+      "sha256": "b6b6f361c651ed1492db5fcf741b8393734d1f557c72f4cc46267aaf885208f7",
+      "size": 38066,
+      "permissions": [
+        "network",
+        "storage"
+      ],
+      "repo": "Strizzo/outside-cartridge",
+      "source_commit": "29663dbea93fb103ba3f195462c83f2b5f0d3df3"
+    }
+  ]
+}

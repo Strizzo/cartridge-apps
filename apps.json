@@ -3,16 +3,16 @@
   "apps": [
     {
       "id": "dev.cartridge.frequency",
-      "version": "1.1.0",
-      "sha256": "3be744369f6c278b65a9b6cec012af7a90db1a57de3f168cbc41305def2f3a49",
-      "size": 3027362,
+      "version": "1.2.0",
+      "sha256": "ff726c15e69d993b1795103bf518e6a5d718fe594170098fafe8669df6b1a3a4",
+      "size": 3028915,
       "permissions": [
         "network",
         "audio",
         "storage"
       ],
       "repo": "Strizzo/frequency-cartridge",
-      "source_commit": "b52891c0fc41f294b0a6876ebdffd1244985ccdf"
+      "source_commit": "0ab4d89f3182610e777d60e6fdcabe7da9025c68"
     },
     {
       "id": "dev.cartridge.mission-control",

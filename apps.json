@@ -37,6 +37,19 @@
       ],
       "repo": "Strizzo/outside-cartridge",
       "source_commit": "29663dbea93fb103ba3f195462c83f2b5f0d3df3"
+    },
+    {
+      "id": "dev.cartridge.vibeboy",
+      "version": "0.4.0",
+      "sha256": "7e07acde2d491914e3298825b48c28a68a37f83a5327a4e5c8976f4127cee981",
+      "size": 15452,
+      "permissions": [
+        "network",
+        "storage",
+        "ssh"
+      ],
+      "repo": "Strizzo/vibeboy-cartridge",
+      "source_commit": "9b6b17ccbadeff82b9c3ed60b61f99fe312818e0"
     }
   ]
 }
